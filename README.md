@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **carlatakagi@gmail.com**
 
-- ⚡ Fun fact **I'm always interesting on learning something new.**
+- ⚡ One fact **I'm always interesting on learning something new.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
