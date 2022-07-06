@@ -1,7 +1,7 @@
 <h1 align="center">Hello, devs! I'm Carla Takagi (she/her)</h1>
 <h3 align="center">A brazilian and japanese development student and tech lover.</h3>
 
-- :woman_technologist: I’m currently learning **JavaScript, React JS, Hooks and Node JS.**
+- :woman_technologist: I’m currently learning **JavaScript, React JS, Hooks, TypeScript and Node JS.**
 
 - 📫 How to reach me **carlatakagi@gmail.com**
 
