@@ -1,11 +1,11 @@
 <h1 align="center">Hello, devs! I'm Carla Takagi (she/her)</h1>
 <h3 align="center">A brazilian and japanese development student and tech lover.</h3>
 
-- :woman_technologist: I’m currently learning **JavaScript, React JS, Hooks, TypeScript and Node JS.**
+- :woman_technologist: I’m currently learning **JavaScript, React JS, Hooks, TypeScript, Node JS and C#.**
 
 - ⚡ **I'm always learning something new.**
 
-<h3 align="left">Connect with me:</h3>
+<p align="left">Connect with me:</p>
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carla-takagi/)
  [![Gmail Badge](https://img.shields.io/badge/-carlatakagi-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:carlatakagi@gmail.com)](mailto:carlatakagi@gmail.com)
