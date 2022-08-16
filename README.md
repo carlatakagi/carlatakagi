@@ -6,11 +6,9 @@
 - ⚡ **I'm always learning something new.**
 
 <h3 align="left">Connect with me:</h3>
-<p>
- [![Linkedin Badge](https://img.shields.io/badge/-carla-takagi-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carla-takagi/)](https://www.linkedin.com/in/carla-takagi/)
-[![Gmail Badge](https://img.shields.io/badge/-carlatakagi813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:carlatakagi@gmail.com)](mailto:carlatakagi@gmail.com)
 
-</p>
+ [![Linkedin Badge](https://img.shields.io/badge/-carla-takagi-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carla-takagi/)](https://www.linkedin.com/in/carla-takagi/)
+ [![Gmail Badge](https://img.shields.io/badge/-carlatakagi813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:carlatakagi@gmail.com)](mailto:carlatakagi@gmail.com)
 
 
 <h3 align="left">Languages and Tools:</h3>
