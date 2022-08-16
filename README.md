@@ -3,15 +3,12 @@
 
 - :woman_technologist: I’m currently learning **JavaScript, React JS, Hooks, TypeScript and Node JS.**
 
-- 📫 How to reach me **carlatakagi@gmail.com**
-
 - ⚡ **I'm always learning something new.**
 
 <h3 align="left">Connect with me:</h3>
 <p>
-  <a href="https://www.linkedin.com/in/carla-takagi" rel="nofollow">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=plastic&logo=linkedin&logoColor=white" alt="Linkedin Badge" style="max-width:100%;">
-  </a>
+ [![Linkedin Badge](https://img.shields.io/badge/-carla-takagi-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carla-takagi/)](https://www.linkedin.com/in/carla-takagi/)
+[![Gmail Badge](https://img.shields.io/badge/-carlatakagi813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:carlatakagi@gmail.com)](mailto:carlatakagi@gmail.com)
 
 </p>
 
