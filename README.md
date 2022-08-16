@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
- [![Linkedin Badge](https://img.shields.io/badge/-carla-takagi-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carla-takagi/)](https://www.linkedin.com/in/carla-takagi/)
+ [![Linkedin Badge](https://img.shields.io/badge/-carla-takagi-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carla-takagi)](https://www.linkedin.com/in/carla-takagi)
  [![Gmail Badge](https://img.shields.io/badge/-carlatakagi-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:carlatakagi@gmail.com)](mailto:carlatakagi@gmail.com)
 
 
