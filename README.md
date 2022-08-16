@@ -2,7 +2,6 @@
 <h3 align="center">A brazilian and japanese development student and tech lover.</h3>
 <br>
 - ⚡ **:woman_technologist: I’m currently learning **JavaScript, React JS, Hooks, TypeScript, Node JS and C#.**
-
 - ⚡ **I'm always learning something new.**
 
 <p align="left">Connect with me:</p>
