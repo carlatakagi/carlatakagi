@@ -30,9 +30,9 @@
  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 <div>
-   <p><img align="left" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlatakagi&show_icons=true&locale=en&layout=compact"  alt="carlatakagi" /></p>
+   <p><img align="left" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlatakagi&show_icons=true&locale=en&layout=compact"  alt="carlatakagi" /></p>
 
-  <p>&nbsp;<img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=carlatakagi&show_icons=true&locale=en" alt="carlatakagi" /></p>
+  <p>&nbsp;<img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=carlatakagi&show_icons=true&locale=en" alt="carlatakagi" /></p>
 
-  <p><img align="center" height="300em" src="https://github-readme-streak-stats.herokuapp.com/?user=carlatakagi&" alt="carlatakagi" /></p>
+  <p><img align="center" height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=carlatakagi&" alt="carlatakagi" /></p>
 <div>
