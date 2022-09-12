@@ -33,6 +33,4 @@
    <p><img align="left" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlatakagi&show_icons=true&locale=en&layout=compact"  alt="carlatakagi" /></p>
 
   <p>&nbsp;<img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=carlatakagi&show_icons=true&locale=en" alt="carlatakagi" /></p>
-
-  <p><img align="center" height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=carlatakagi&" alt="carlatakagi" /></p>
 <div>
