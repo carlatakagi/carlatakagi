@@ -29,7 +29,7 @@
  
  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<div>
+<div align="center">
    <p><img align="left" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlatakagi&show_icons=true&locale=en&layout=compact"  alt="carlatakagi" /></p>
 
   <p>&nbsp;<img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=carlatakagi&show_icons=true&locale=en" alt="carlatakagi" /></p>
