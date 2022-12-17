@@ -1,8 +1,8 @@
 <h1 align="center">Hello, devs! I'm Carla Takagi (she/her)</h1>
-<h3 align="center">A brazilian and japanese development student and tech lover.</h3>
+<h3 align="center">A brazilian and japanese software engineer and tech lover.</h3>
 <br>
 
-- :woman_technologist: I’m currently learning **JavaScript, React JS, Hooks, TypeScript, NodeJS, NestJS, Python and C#.**
+- :woman_technologist: I’m currently learning **JavaScript, ReactJS, Redux Toolkit, TypeScript and NestJS.**
 - ⚡ **I'm always learning something new.**
 
 <p align="left">Connect with me:</p>
