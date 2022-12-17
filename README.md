@@ -1,5 +1,5 @@
 <h1 align="center">Hello, devs! I'm Carla Takagi (she/her)</h1>
-<h3 align="center">A brazilian and japanese software engineer and tech lover.</h3>
+<h3 align="center">A brazilian and japanese software engineer jr and tech lover.</h3>
 <br>
 
 - :woman_technologist: I’m currently learning **JavaScript, ReactJS, Redux Toolkit, TypeScript and NestJS.**
