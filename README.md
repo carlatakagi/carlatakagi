@@ -2,7 +2,7 @@
 <h3 align="center">A brazilian and japanese software engineer jr and tech lover.</h3>
 <br>
 
-- :woman_technologist: I’m currently learning **TypeScript, NestJS and Flutter.**
+- :woman_technologist: I’m currently learning **TypeScript, Python and Flutter.**
 - ⚡ **I'm always learning something new.**
 
 <p align="left">Connect with me:</p>
